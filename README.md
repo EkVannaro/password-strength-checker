@@ -46,7 +46,7 @@ Password-Strength-Checker/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/Password-Strength-Checker.git
+git clone https://github.com/EkVannaro/password-strength-checker.git
 ```
 
 2. Navigate to the project folder:
@@ -136,9 +136,3 @@ Through this project, I gained experience with:
 * Estimate password entropy
 * Support a wider range of special characters
 * Build a graphical user interface (GUI)
-
----
-
-## License
-
-This project is licensed under the MIT License.
